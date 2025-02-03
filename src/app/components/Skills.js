@@ -8,7 +8,7 @@ const Skills = () => (
   
  // Import icons for Next.js, Tailwind CSS, Google Ads, and Facebook Ads
 
-<section id="skills" className="py-20 bg-gradient-to-r from-pink-500 to-orange-400 opacity-95">
+<section id="skills" className="py-20 p-2 bg-gradient-to-r from-pink-500 to-orange-400 opacity-95">
   <h2 className="text-4xl font-bold text-center mb-12 text-white">My Skills</h2>
   <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8">
     {[
